@@ -1,0 +1,2 @@
+default:
+  url: http://api.fixer.io/
